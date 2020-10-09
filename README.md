@@ -1,5 +1,11 @@
-# Sequel_notes
-My notes on SQL (Sequel)
+# SQL Zoo
+My notes from [SQL Zoo](https://sqlzoo.net/)
 
-[Hunter Ducharme Book](https://github.com/oracleot/Sequel_notes/tree/hunter-ducharme-ebook)
-[SQLZoo](https://github.com/oracleot/Sequel_notes/tree/sql-zoo)
+## SELECT Basics
+Notes...
+
+## SELECT from world
+
+1. `SELECT name, continent, population FROM world`
+
+The snippet above selects data from __name__ and __population__ fields in the __world__ table
